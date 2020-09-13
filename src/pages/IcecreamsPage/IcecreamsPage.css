@@ -1,0 +1,26 @@
+.Shop {
+    display: none;
+}
+
+.Bar {
+    padding: 20px;
+}
+
+.Img {
+    display: inline-block;
+    box-shadow: 10px 10px 5px grey;
+    height: 250px;
+    width: 210px;
+}
+
+.Name, .New {
+    text-decoration: none;
+}
+
+.Home-Contact {
+    text-decoration: none;
+}
+
+.Img {
+    display: inline-block;
+}

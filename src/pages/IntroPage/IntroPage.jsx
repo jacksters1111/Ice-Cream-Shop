@@ -6,7 +6,7 @@ const IntroPage = (props) => {
   return (
       <div className='IntroPage'>
         <h2 className="Menu"><Link className="Menu2" to='/icecream'>Explore</Link></h2>
-        <img alt="icecream" src="https://i.imgur.com/NaqAQvF.png"></img>
+        <img alt="icecream" src="https://i.imgur.com/jKkfqXc.png"></img>
       </div>
   )
 };
